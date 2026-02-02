@@ -1,0 +1,1 @@
+torchrun --nproc_per_node=8 --local-ranks-filter 0 -m octopus.train
