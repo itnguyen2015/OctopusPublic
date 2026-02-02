@@ -5,13 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "optopus"
 version = "0.1.0"
-description = "Selective Attention for Large Language Models"
+description = ""
 readme = "README.md"
 requires-python = ">=3.12"
 
-authors = [
-    { name = "Chien Nguyen", email = "chiennv.hust@gmail.com" }
-]
+authors = []
 
 [tool.setuptools]
 package-dir = { "" = "src" }
